@@ -168,7 +168,7 @@ abstract class AbstractExperiment
      */
     public function setExposureLogged($value)
     {
-        $this->exposure_logged = value;
+        $this->exposure_logged = $value;
     }
 
     /**
